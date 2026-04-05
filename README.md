@@ -48,4 +48,4 @@ It uses Machine Learning and is deployed using Streamlit.
 ---
 
 ## 🌐 Live App
-👉 (Add your Streamlit link here after deployment)
+👉 https://airbnb-price-predictor-qbiazzjoaxysuvbpbd6xpf.streamlit.app/
